@@ -1,5 +1,5 @@
 ---
-# layout: cv
+pagetitle: Theo Rashid | CV
 format:
   html:
     page-layout: custom
@@ -17,7 +17,6 @@ format:
             | <a href="https://theorashid.github.io">theorashid.github.io</a>
         </div>
         </html>
-# title: Theo Rashid
 ---
 <!-- # Theo Rashid -->
 <!-- Physicist, Mathematician, Statistician. -->
