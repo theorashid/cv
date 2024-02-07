@@ -21,12 +21,16 @@ format:
 
 ## Current
 
-`2023-`
-__Research Associate, University of Oxford__
-
-- Modelling food insecurity in [Seth Flaxman's](https://sethrf.com) group in collaboration with the UN World Food Programme.
+`2024-`
+__Data Science Fellow, Faculty__, London
 
 ## Experience
+
+`2023`
+Researcher, __University of Oxford__ and __Columbia University__
+
+- Modelling food insecurity in [Seth Flaxman's](https://sethrf.com) group in collaboration with the UN World Food Programme.
+- Building scalable Bayesian environmental health models in [Robbie Parks'](https://sparklabnyc.github.io/site/home.html) lab.
 
 `2022`
 Applied Scientist intern, __Amazon__, Seattle
@@ -111,13 +115,13 @@ Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial Colleg
 
 ### Statistical
 
-Bayesian modelling, machine learning, forecasting, spatiotemporal statistics, probabilistic programming
+Bayesian modelling, machine learning, forecasting, spatiotemporal statistics, probabilistic programming, open source software
 
 ### Computational
 
 Highly proficient in R, python
 
-Experience in Julia, Stan, shell/ssh, git, high performance computing, data visualisation, Markdown, LaTeX, html, D3.js, CAD
+Experience in Julia, Stan, shell/ssh, git, SQL, high performance computing, data visualisation, Markdown, Quarto, LaTeX, html, D3.js, CAD
 
 ### Languages
 
