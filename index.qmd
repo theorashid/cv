@@ -24,6 +24,8 @@ format:
 `2024-`
 __Data Science Fellow, Faculty__, London
 
+- Building an API and LLM application which allows Faculty staff to ask questions about previous internal projects.
+
 ## Experience
 
 `2023`
@@ -119,9 +121,7 @@ Bayesian modelling, machine learning, forecasting, spatiotemporal statistics, pr
 
 ### Computational
 
-Highly proficient in R, python
-
-Experience in Julia, Stan, shell/ssh, git, SQL, high performance computing, data visualisation, Markdown, Quarto, LaTeX, html, D3.js, CAD
+python, R, Stan, Julia, shell/ssh, git, SQL, FastAPI, LLM, NLP, LangChain, jax, CI/CD, high performance computing, data visualisation, D3.js, Markdown, Quarto, LaTeX, html, CAD
 
 ### Languages
 
