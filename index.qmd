@@ -22,7 +22,7 @@ format:
 ## Current
 
 `2024-`
-__Data Science Fellow, Faculty__, London
+__Data Scientist, Faculty__, London
 
 - Building an API and LLM application which allows Faculty staff to ask questions about previous internal projects.
 
@@ -35,7 +35,7 @@ Researcher, __University of Oxford__ and __Columbia University__
 - Building scalable Bayesian environmental health models in [Robbie Parks'](https://sparklabnyc.github.io/site/home.html) lab.
 
 `2022`
-Applied Scientist intern, __Amazon__, Seattle
+Applied Scientist, __Amazon__, Seattle
 
 - Implementing multivariate probabilistic time series models to forecast product demand in the grocery sector.
 
