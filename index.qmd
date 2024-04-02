@@ -90,6 +90,9 @@ Wang, S., __Rashid, T.__ _et al._ (2020). [A shortening of the lifecycle of majo
 
 ## Talks
 
+`2024`
+Improving Grocery Forecasting with a Bayesian Multivariate Structural Time Series Model, __Amazon Consumer Science Summit__
+
 `2022`
 The changing mortality patterns in 6791 communities in England, __6th Human Mortality Database Symposium, INED__
 
