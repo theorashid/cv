@@ -116,6 +116,16 @@ Head Teaching Assistant, __Population Health__ in the Health Data Analytics and 
 `2021`
 Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial College London
 
+<!-- ## Peer Review
+
+_Journal of Open Source Software_ article. [GPJax: A Gaussian Process Framework in JAX](https://joss.theoj.org/papers/10.21105/joss.04455).
+
+_Journal of Machine Learning Research_ (Gaussian process [paper](https://arxiv.org/abs/2404.12478) on behalf of Seth Flaxman). 
+
+Andrew Gelman's, _MCMC Handbook: Latent Gaussian Models and Computation for Large Spatial Data_ (on behalf of Seth Flaxman). 
+
+_The Case for Degrowth_, review [published](https://journalhss.com/wp-content/uploads/Rashid_10.192042021rcnt7.pdf) in the _Journal of Health and Social Sciences_. -->
+
 ## Skills
 
 ### Statistical
