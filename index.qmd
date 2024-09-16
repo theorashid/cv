@@ -39,8 +39,8 @@ __Freelance__ Data Scientist
 
 - Modelling soil carbon stock using spatial machine learning methods at [Loamin](https://www.loamin.com/).
 - Implementing approximate Bayesian inference algorithms, contract with [PyMC labs](https://www.pymc-labs.com/).
-- Modelling food insecurity in [Seth Flaxman's](https://sethrf.com) group in collaboration with the UN World Food Programme.
-- Building scalable Bayesian environmental health models in [Robbie Parks'](https://sparklabnyc.github.io/site/home.html) lab.
+- Modelling food insecurity in [Seth Flaxman's](https://sethrf.com) group at the University of Oxford in collaboration with the UN World Food Programme.
+- Building scalable Bayesian environmental health models in [Robbie Parks'](https://sparklabnyc.github.io/site/home.html) lab at Columbia University.
 
 `2022`
 Applied Scientist, __Amazon__, Seattle
