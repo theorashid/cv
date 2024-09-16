@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.549">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -58,15 +58,22 @@ ul.task-list li input[type="checkbox"] {
 <!-- Physicist, Mathematician, Statistician. -->
 <section id="current" class="level2">
 <h2 data-anchor-id="current">Current</h2>
-<p><code>2024-</code> <strong>Data Scientist, Faculty</strong>, London</p>
+<p><code>2024-</code> <strong>Applied Scientist, Amazon</strong>, Seattle</p>
 <ul>
-<li>Building an API and LLM application which allows Faculty staff to ask questions about previous internal projects.</li>
+<li>Building forecasting models.</li>
+<li>Alien with extraordinary ability (O1) visa.</li>
 </ul>
 </section>
 <section id="experience" class="level2">
 <h2 data-anchor-id="experience">Experience</h2>
-<p><code>2023</code> Researcher, <strong>University of Oxford</strong> and <strong>Columbia University</strong></p>
+<p><code>2024</code> Data Scientist, <strong>Faculty</strong>, London</p>
 <ul>
+<li>Building an API and LLM application which allows Faculty staff to ask questions about previous internal projects.</li>
+</ul>
+<p><code>2023-24</code> <strong>Freelance</strong> Data Scientist</p>
+<ul>
+<li>Modelling soil carbon stock using spatial machine learning methods at <a href="https://www.loamin.com/">Loamin</a>.</li>
+<li>Implementing approximate Bayesian inference algorithms, contract with <a href="https://www.pymc-labs.com/">PyMC labs</a>.</li>
 <li>Modelling food insecurity in <a href="https://sethrf.com">Seth Flaxman’s</a> group in collaboration with the UN World Food Programme.</li>
 <li>Building scalable Bayesian environmental health models in <a href="https://sparklabnyc.github.io/site/home.html">Robbie Parks’</a> lab.</li>
 </ul>
@@ -81,7 +88,7 @@ Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of 
 </section>
 <section id="education" class="level2">
 <h2 data-anchor-id="education">Education</h2>
-<p><code>2019-2023</code> <strong>PhD in Epidemiology &amp; Biostatistics, Imperial College London</strong></p>
+<p><code>2019-23</code> <strong>PhD in Epidemiology &amp; Biostatistics, Imperial College London</strong></p>
 <ul>
 <li>Thesis title: Spatiotemporal modelling of all-cause and cause-specific mortality in England <!-- - Scalable Bayesian models for estimating life expectancy over space and time --></li>
 <li>Supervised by <a href="https://www.imperial.ac.uk/people/majid.ezzati">Majid Ezzati</a>, <a href="https://www.imperial.ac.uk/people/umahx99">James Bennett</a> and <a href="https://sethrf.com">Seth Flaxman</a>, funded by the President’s Scholarship</li>
@@ -115,20 +122,29 @@ __Leicester Grammar School__
 </section>
 <section id="teaching" class="level2">
 <h2 data-anchor-id="teaching">Teaching</h2>
-<p><code>2023</code> Instructor, <strong>Bayesian Modelling for Environmental Health</strong> workshop, Columbia University</p>
-<p>Teaching Assistant, <strong>Advanced Regression</strong> in the Epidemiology MSc, Imperial College London</p>
+<p><code>2023-24</code> Instructor, <strong>Bayesian Modelling for Environmental Health</strong> workshop, Columbia University</p>
 <p><code>2021-23</code> Head Teaching Assistant, <strong>Population Health</strong> in the Health Data Analytics and Machine Learning MSc, Imperial College London</p>
-<p><code>2021</code> Teaching Assistant, <strong>Statistics for Public Health</strong> in the MPH, Imperial College London</p>
+<p>Teaching Assistant, <strong>Advanced Regression</strong> in the Epidemiology MSc, Imperial College London</p>
+<p>Teaching Assistant, <strong>Statistics for Public Health</strong> in the MPH, Imperial College London</p>
+<!-- ## Peer Review
+
+_Journal of Open Source Software_ article. [GPJax: A Gaussian Process Framework in JAX](https://joss.theoj.org/papers/10.21105/joss.04455).
+
+_Journal of Machine Learning Research_ (Gaussian process [paper](https://arxiv.org/abs/2404.12478) on behalf of Seth Flaxman). 
+
+Andrew Gelman's, _MCMC Handbook: Latent Gaussian Models and Computation for Large Spatial Data_ (on behalf of Seth Flaxman). 
+
+_The Case for Degrowth_, review [published](https://journalhss.com/wp-content/uploads/Rashid_10.192042021rcnt7.pdf) in the _Journal of Health and Social Sciences_. -->
 </section>
 <section id="skills" class="level2">
 <h2 data-anchor-id="skills">Skills</h2>
 <section id="statistical" class="level3">
 <h3 data-anchor-id="statistical">Statistical</h3>
-<p>Bayesian modelling, machine learning, forecasting, spatiotemporal statistics, probabilistic programming, open source software</p>
+<p>Bayesian modelling, machine learning, forecasting, spatiotemporal statistics, probabilistic programming, Gaussian processes, <a href="https://github.com/theorashid">open source software</a></p>
 </section>
 <section id="computational" class="level3">
 <h3 data-anchor-id="computational">Computational</h3>
-<p>python, R, Stan, Julia, shell/ssh, git, SQL, FastAPI, LLM, NLP, LangChain, jax, CI/CD, high performance computing, data visualisation, D3.js, Markdown, Quarto, LaTeX, html, CAD</p>
+<p>python, R, Stan, Julia, shell/ssh, git, SQL, FastAPI, LLM, NLP, LangChain, jax, PyTorch, mlflow, serverless functions, CI/CD, high performance computing, data visualisation, D3.js, Markdown, Quarto, LaTeX, html, CAD</p>
 </section>
 <section id="languages" class="level3">
 <h3 data-anchor-id="languages">Languages</h3>
@@ -175,18 +191,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
     return false;
   }
-  const clipboard = new window.ClipboardJS('.code-copy-button', {
-    text: function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-    }
-  });
-  clipboard.on('success', function(e) {
+  const onCopySuccess = function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -218,7 +223,47 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
   });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -253,7 +298,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');

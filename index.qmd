@@ -22,15 +22,23 @@ format:
 ## Current
 
 `2024-`
-__Data Scientist, Faculty__, London
+__Applied Scientist, Amazon__, Seattle
 
-- Building an API and LLM application which allows Faculty staff to ask questions about previous internal projects.
+- Building forecasting models.
+- Alien with extraordinary ability (O1) visa.
 
 ## Experience
 
-`2023`
-Researcher, __University of Oxford__ and __Columbia University__
+`2024`
+Data Scientist, __Faculty__, London
 
+- Building an API and LLM application which allows Faculty staff to ask questions about previous internal projects.
+
+`2023-24`
+__Freelance__ Data Scientist
+
+- Modelling soil carbon stock using spatial machine learning methods at [Loamin](https://www.loamin.com/).
+- Implementing approximate Bayesian inference algorithms, contract with [PyMC labs](https://www.pymc-labs.com/).
 - Modelling food insecurity in [Seth Flaxman's](https://sethrf.com) group in collaboration with the UN World Food Programme.
 - Building scalable Bayesian environmental health models in [Robbie Parks'](https://sparklabnyc.github.io/site/home.html) lab.
 
@@ -50,7 +58,7 @@ Nuffield Research Placement, __Spectroscopy and Dynamics Group__, Department of 
 
 ## Education
 
-`2019-2023`
+`2019-23`
 __PhD in Epidemiology & Biostatistics, Imperial College London__
 
 - Thesis title: Spatiotemporal modelling of all-cause and cause-specific mortality in England
@@ -105,15 +113,14 @@ High resolution analysis reveals widening 30-year life expectancy gap within Lon
 
 ## Teaching
 
-`2023`
+`2023-24`
 Instructor, __Bayesian Modelling for Environmental Health__ workshop, Columbia University
-
-Teaching Assistant, __Advanced Regression__ in the Epidemiology MSc, Imperial College London
 
 `2021-23`
 Head Teaching Assistant, __Population Health__ in the Health Data Analytics and Machine Learning MSc, Imperial College London
 
-`2021`
+Teaching Assistant, __Advanced Regression__ in the Epidemiology MSc, Imperial College London
+
 Teaching Assistant, __Statistics for Public Health__ in the MPH, Imperial College London
 
 <!-- ## Peer Review
@@ -130,11 +137,11 @@ _The Case for Degrowth_, review [published](https://journalhss.com/wp-content/up
 
 ### Statistical
 
-Bayesian modelling, machine learning, forecasting, spatiotemporal statistics, probabilistic programming, open source software
+Bayesian modelling, machine learning, forecasting, spatiotemporal statistics, probabilistic programming, Gaussian processes, [open source software](https://github.com/theorashid)
 
 ### Computational
 
-python, R, Stan, Julia, shell/ssh, git, SQL, FastAPI, LLM, NLP, LangChain, jax, CI/CD, high performance computing, data visualisation, D3.js, Markdown, Quarto, LaTeX, html, CAD
+python, R, Stan, Julia, shell/ssh, git, SQL, FastAPI, LLM, NLP, LangChain, jax, PyTorch, mlflow, serverless functions, CI/CD, high performance computing, data visualisation, D3.js, Markdown, Quarto, LaTeX, html, CAD
 
 ### Languages
 
