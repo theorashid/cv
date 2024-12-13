@@ -141,7 +141,7 @@ Bayesian modelling, machine learning, forecasting, spatiotemporal statistics, pr
 
 ### Computational
 
-python, R, Stan, Julia, shell/ssh, git, SQL, FastAPI, LLM, NLP, LangChain, jax, PyTorch, mlflow, serverless functions, CI/CD, high performance computing, data visualisation, D3.js, Markdown, Quarto, LaTeX, html, CAD
+python, R, Stan, Julia, shell/ssh, git, SQL, LLM, NLP, LangChain, xarray, numba, jax, PyTorch, Airflow, MLflow, Kubernetes, Ray, serverless functions, AWS CDK (TypeScript), FastAPI, CI/CD, high performance computing, data visualisation, D3.js, Markdown, Quarto, LaTeX, html, CAD
 
 ### Languages
 
