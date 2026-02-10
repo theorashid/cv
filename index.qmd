@@ -2,6 +2,7 @@
 pagetitle: Theo Rashid | CV
 format:
   html:
+    embed-resources: true
     page-layout: custom
     include-in-header:
     - text: |
@@ -24,7 +25,7 @@ format:
 `2024-`
 __Applied Scientist, Amazon__, Seattle
 
-- Building forecasting models.
+- Building forecasting models and the MLOps infrastructure for scaling.
 - Alien with extraordinary ability (O1) visa.
 
 ## Experience
@@ -112,6 +113,9 @@ Life expectancy inequality in London, __Conference of the International Society 
 High resolution analysis reveals widening 30-year life expectancy gap within London, __International Conference on Urban Health__
 
 ## Teaching
+
+`2025`
+Google Summer of Code Mentor, __Integrated Nested Laplace Approximation__, PyMC
 
 `2023-24`
 Instructor, __Bayesian Modelling for Environmental Health__ workshop, Columbia University
