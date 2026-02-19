@@ -78,6 +78,9 @@ __Leicester Grammar School__
 
 ## Selected Publications
 
+`2026`
+Ngoka, N.D., Fabisiak, A., Fratantoni, J., Alla, S., Cook, K., and __Rashid, T.__. (2026). [Build AI workflows on Amazon EKS with Union.ai and Flyte](https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/). _AWS Artificial Intelligence Blog_.
+
 `2024`
 __Rashid, T.__, Bennett, J.E. _et al._ (2024). [Mortality from leading cancers in districts of England from 2002 to 2019: a population-based, spatiotemporal study](https://doi.org/10.1016/S1470-2045%2823%2900530-2). _The Lancet Oncology_, 25, 86-98.
 
